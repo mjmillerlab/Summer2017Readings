@@ -1,8 +1,13 @@
 ## Spring 2017 Directed readings for Kevin Hawkins.
 
-This is a  directed reading course for Kevin Hawkins for the summer of 2017. The goal of this directed reading is for Kevin to familarize himself with current papers that are providing a critical framework for our understanding of the nature of speciation, especially as it might apply to birds.  For the reading, we are focusing on two topics: the idea that genomic islands drive reproductive islands, and the alternative (but not necessarily incompatible) hypothesesis that mtDNA divergences and lack of introgression are driven by mitonuclear discord, which may drive reproductive isolation. 
+This is a  directed reading course for Kevin Hawkins for the summer of 2017. The goal of this directed reading is for Kevin to familarize himself with current papers that are providing a critical framework for our understanding of the nature of speciation, especially as it might apply to birds.  For the reading, we are focusing on two topics: the idea that genomic islands drive reproductive islands, and the alternative (but not necessarily incompatible) hypothesesis that mtDNA divergences and lack of introgression are driven by mitonuclear discord, which may drive reproductive isolation.
 
-### Part One:  Genomics Island of Speciation
+For each section, I ask Kevin to read all the papers. Upon completion, I will meet with Kevin for two hours. During that meeting we will discuss all the papers. One week before our meeting, Kevin will provide me:
+- A printed copy of each paper that shows highlighting and annotations.
+- A summary of the paper.  In the style of [Jonathan Tonkin]
+- A list of three key points of observations. Written in sentence style. Two to four sentences per observation.
+
+### Part One:  Genomics Islands and Speciation
 1. Nadeau, N.J., Whibley, A., Jones, R.T., Davey, J.W., Dasmahapatra, K.K., Baxter, S.W., Quail, M.A., Joron, M., Blaxter, M.L., Mallet, J. and Jiggins, C.D., 2012. Genomic islands of divergence in hybridizing Heliconius butterflies identified by large-scale targeted sequencing. Phil. Trans. R. Soc. B, 367(1587), pp.343-353.
 2. Feder, J.L., Egan, S.P. and Nosil, P., 2012. The genomics of speciation-with-gene-flow. Trends in Genetics, 28(7), pp.342-350.
 3. Nosil, P. & Feder, J.L., 2012. Genomic divergence during speciation: causes and consequences. Philosophical transactions of the Royal Society of London. Series B, Biological sciences, 367(1587), pp.332–342.
